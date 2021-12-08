@@ -1,18 +1,19 @@
 #import<stdio.h>
 
-int swap(int *a, int *b) {
-    int *t;
-    t = a;
-    a = b;
-    b = t;
-    return 0;
+void swap(int *x, int *y) {
+    int t;
+    t = *x;
+    *x = *y;
+    *y = t;
 }
 
 int main() {
-    int *i, *j;
+    int i = 10, j = 20;
+
+    printf("Before: i = %d j = %d\n", i, j);
 
     swap(&i, &j);
 
-    printf("%d %d", *i, *j);
+    printf("After: i = %d j = %d\n", i, j);
     return 0;
 }
