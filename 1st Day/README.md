@@ -39,8 +39,6 @@
      - Length
      - Copy
      - Concatenate
-   - [Program](string_to_upper_with_ascii_chart.c) - Program to switch cases to UPPERCASE with ASCII.
-   - [Program](string_reverse_without_string_functions.c) - Program to reverse String without using String functions.
    - [Program](scroll_text_with_graphic.c) - Program to scroll text graphically using `graphic.h`
 6. Structure
 
@@ -53,3 +51,12 @@
                ...
            }
      ```
+
+---
+
+# Assignment
+
+1. Program to switch cases to UPPERCASE with ASCII.
+    - [Program](assignments/string_to_upper_with_ascii_chart.c)
+2. Program to reverse String without using String functions.
+    - [Program](assignments/string_reverse_without_string_functions.c)
