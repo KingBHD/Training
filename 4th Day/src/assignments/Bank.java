@@ -30,6 +30,7 @@ public class Bank {
         System.out.println("[-] Debited $" + amount + " from " + customer.name + "'s A/C");
         customer.balance = customer.balance - amount;
     }
+
     static void credit(Bank customer, int amount) {
         System.out.println("[+] Credited $" + amount + " to " + customer.name + "'s A/C");
         customer.balance = customer.balance + amount;

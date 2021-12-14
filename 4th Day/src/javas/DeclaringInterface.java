@@ -2,11 +2,13 @@ package javas;
 
 interface DeclareFace {
     int x = 10, y = 20;
+
     void prn();
 }
 
 interface DeclareFace2 {
     int x = 30, y = 40;
+
     void prn();
 }
 

@@ -4,7 +4,7 @@ public class MethodOverload {
     void prt() {
         System.out.println("prt without args");
     }
-    
+
     void prt(int i) {
         System.out.println("prt with one int arg");
     }

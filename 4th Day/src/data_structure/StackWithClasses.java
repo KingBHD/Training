@@ -1,7 +1,5 @@
 package data_structure;
 
-import java.util.Scanner;
-
 class Stack {
     int[] item;
     int top = -1;
@@ -19,9 +17,7 @@ class Stack {
         if (top == -1) {
             System.out.println("Stack is empty!");
             return -1;
-        }
-
-        else {
+        } else {
             int e = item[top];
             System.out.println(e + " Pop-ed!");
             top--;

@@ -21,9 +21,11 @@ class FaceClassA implements I3 {
     public void prn1A() {
         System.out.println("prn1");
     }
+
     public void prn2B() {
         System.out.println("prn1");
     }
+
     public void prn3C() {
         System.out.println("prn1");
     }

@@ -4,7 +4,7 @@ class A {
 
     int x, y;
 
-    A () {
+    A() {
         x = 10;
         y = 20;
     }

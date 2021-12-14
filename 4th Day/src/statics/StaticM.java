@@ -1,6 +1,6 @@
 package statics;
 
-import java.util.*;
+import java.util.Scanner;
 
 public class StaticM {
     int x, y;

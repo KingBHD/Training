@@ -10,6 +10,7 @@ abstract class AB {
     }
 
     abstract void swim();
+
     abstract void drive_a_car();
 }
 
