@@ -26,7 +26,7 @@
 6. Given a 2D array, it is filled with 0's and 1's. WAP that if it found 0 in the given matrix then its corresponding
    row and column will be changed to 0.
     - | 0 | 1 | 0 | 0 |
-            | --- | --- | --- | --- |
+      | --- | --- | --- | --- |
       | 0 | 0 | 1 | 1 |
       | 1 | 0 | 0 | 1 |
       | 0 | 0 | 0 | 1 |
