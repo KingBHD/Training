@@ -1,7 +1,7 @@
 # Assignment
 
 1. Transfer money in between customers (object)
-    - [Solution](src/assignments/Bank.java)
+    - [Solution](Bank.java)
 
 2. Bank to Bank transfer
     1. Interface `RBI`
