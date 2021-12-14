@@ -3,63 +3,36 @@
 ## C / C++ Programming
 
 1. Structure
+   > *Template of an object, by which we can copy similar data*
    - [Nested Structure](2_nested_structure.c)
    
 2. [File Handling](2_file_handeling.c)
+   > File Handling is the storing of data in a file using a program.
    - File Read & Write
    - File Copy
    
 3. Header File
-   - [Program](2_use_of_header_file.c) - Program to create header file with sum/sub/multi/myFunc
+   > Header files is a file which contains declarations of functions and variables to be shared between several source files.
+   - [Example](2_use_of_header_file.c): Program to create header file with sum/sub/multi/myFunc
 
 ---
 
-## OOPS & Data Structure
-
-1. OOPS
-    - *Object is a real entity.*
-    - [Program]() - Program to use class in Java with objects
-
-2. Java
-    - Classes
-    - Access Modifier
+1. Java Prog.
+    1. **OOPS**
+        > *Object is a real entity.*
+        - [Example](): Program to use class in Java with objects
+    2. Classes
+    3. Access Modifier
         - `public`
         - `private`
         - `protected`
-        - [Program]() - Program to access modifier with method
-    - Array with Classes
-    - Array of Object of Class
-    - Class Obj at same location
-    - Nested Classes
+        - [Example](): Program to access modifier with method
+    4. Array with Classes
+        - Array of Object of Class
+    5. Class Obj at same location
+    6. Nested Classes
     
-    - Static variables
-        - *Static values used by object of classes*
-        - `static` keyword    
-    
-
-## Assignments
-
-1. Assignment
-   - Equal Voter
-   - Use file handling
-     - Read & Write from/to files
-     - Excel file must!
-   - Use Header files
-     - To cast vote
-     - To see winner
-   - [Program](assignments/2_assignment_voting_machine.c)
-    
-2. Assignment
-   - Make voting machine with linked list
-   - Dynamic input of candidates
-
-3. Assignment
-    - Program to create class of an Student with functions in Java
-    - Functions
-        - `get()`
-        - `prt()`
-        - `calcMarks()`
-    - Obj of an class should be **Array[4]**
-    - Conditions
-        - Marks should not be below zero
-        - Marks should not be more than 100
+3. Static variables
+    > *Static values used by object of classes*
+    - `static` keyword
+    - _topic continued next day.. [read here](../3rd%20Day/README.md)_

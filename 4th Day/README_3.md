@@ -1,6 +1,6 @@
-# 3rd Day - (December 13th, 2021)
+# 3rd Day Training
 
-## Java Programming
+### Java Programming
 
 1. [Static Variable](src/statics/StaticV.java)
     > _Static variable are sharable to all objects._
@@ -107,4 +107,3 @@
       - **Syntax:** `interface interface_name { // body }`
       - **Syntax to implements interface**:
           - `class_name implements interface_name { // body }`
-    - _topic continued next day.. [read here](../4th%20Day/README.md)_
