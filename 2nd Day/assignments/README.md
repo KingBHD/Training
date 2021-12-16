@@ -8,7 +8,7 @@
     - Use Header files
         - To cast vote
         - To see winner
-    - [Solution](2_assignment_voting_machine.c)
+    - [Solution](voting_machine_with_xlsx/2_assignment_voting_machine.c)
 
 2. Program to collect votes with linked list and dynamic input of candidates.
     - Make voting machine with linked list
